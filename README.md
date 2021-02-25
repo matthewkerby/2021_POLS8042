@@ -8,6 +8,8 @@ The primary objective of this course is to provide an introduction to basic desc
 
 The course is designed around 12 weeks of independent online study. Each week students will watch a series of short videos on the week's subject matter. The videos are accompanied by a practical lab, some ungraded application exercises, and finally a weekly homework assessment. The first week of the course focuses primarily on data management; the second half covers descriptive and inferential statistics. Students will write a take-home final examination after Week 12.
 
+Course materials are all available via the Slack channel.
+
 ### Schedule
 
 | Week 01 | Welcome to Political Data Science         |
@@ -47,3 +49,7 @@ I will assign weekly readings in POLS8042. Readings are found in free/open sourc
 ### Course Communication
 
 Course communication will take place using the Slack messaging platform. An invitation link to the Slack page can be found on the POLS8042 Wattle welcome page.
+
+### Acknowledgements
+
+I must acknowledge Dr. Mine Çetinkaya-Runde at the University of Edinburgh. I have used and drawn inspiration from her fabulous datascienceinabox project for the first half of this course. I look forward to building on it and sharing my developments as they move forward. I also shout out to my former students who completed earlier iterations of POLS8042 and provide helpful and constructive feedback.
