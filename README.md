@@ -2,7 +2,7 @@
 
 ### Welcome
 
-Welcome to POLS8042: Quantitative Methods for Political Science. This course is offered to students registered in the MA POLS and HDR POLS programme.
+Welcome to POLS8042: Quantitative Methods for Political Science. This course is offered to students registered in the MA POLS and HDR POLS programme. The official course description can be found on [programs and courses](https://programsandcourses.anu.edu.au/2021/course/POLS8042).
 
 The primary objective of this course is to provide an introduction to basic descriptive and inferential statistics to students who have little or no background in quantitative methods. If you have already completed POLS2044 (or equivalent) you should look for alternative courses to substitute POLS8042.
 
