@@ -1,6 +1,6 @@
 ## POLS8042: Quantitative Methods for Political Science
 
-# Welcome
+### Welcome
 
 Welcome to POLS8042: Quantitative Methods for Political Science. This course is offered to students registered in the MA POLS and HDR POLS programme.
 
@@ -42,8 +42,8 @@ Students will be assessed on three (3) criteria: Seminar participation, weekly a
 
 ### Readings
 
-Weekly readings
+I will assign weekly readings in POLS8042. Readings are found in free/open source texts. You can find them at <https://openintro-ims.netlify.app/index.html> and <https://r4ds.had.co.nz/index.html>. Any additional readings will be provided as pdf files.
 
 ### Course Communication
 
-Course communication will take place using the Slack messaging platform. An invitation link can be found on the POLS8042 Wattle welcome page.
+Course communication will take place using the Slack messaging platform. An invitation link to the Slack page can be found on the POLS8042 Wattle welcome page.
