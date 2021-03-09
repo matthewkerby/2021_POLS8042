@@ -38,7 +38,7 @@ Students will be assessed on three (3) criteria: Seminar participation, weekly a
 
 1.  Seminar participation. This will be subjectively assessed based on students contribution and conversation to each other and the convenor on the Slack channel. "Participation" can include, but is not limited to discussing the assessments, helping (but not providing answers) fellow students understand concepts and application, discussing the applicability of the course materials to research and real world political events... Note that participation must be consistent throughout the course. Front or backloading participation will not result in a strong participation grade.
 
-2.  Students will complete and submit weekly assessments starting in Week 02 and ending in Week 11 (10 assessments in total). Assessments will be made available on the RStudio.cloud platform on Tuesday at 12 noon (AEST) and are to be submitted by email before 12:01am the following Monday. Assessments will be graded and returned to students before the deployment of the next assessment on Tuesday. Grades will be posted to Wattle.
+2.  Students will complete and submit weekly assessments starting in Week 02 and ending in Week 11 (10 assessments in total). Assessments will be made available on the RStudio.cloud platform on Tuesday around midday (AEST) and are to be completed and saved in  Rstudio.cloud before 12:01am the following Monday. Assessments will be graded and returned to students before the deployment of the next assessment on Tuesday. Grades will be posted to Wattle.
 
 3.  Students will write a take home final exam after Week 12.
 
